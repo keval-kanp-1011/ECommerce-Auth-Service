@@ -1,0 +1,1 @@
+rootProject.name = "ECommerce Auth"
